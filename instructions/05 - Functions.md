@@ -96,7 +96,7 @@ Was it what you expected?
 * Check out the built in [`prompt()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt) function - it's kind of like `alert()`, but allows the user to give you a value!
 
 
-Next up it's time to learn about using [**Scripts**](./06 - Scripts.md). 👏👏👏
+Next up it's time to learn about using [**Scripts**](./06%20-%20Scripts.md). 👏👏👏
 
 ## More info:
 
