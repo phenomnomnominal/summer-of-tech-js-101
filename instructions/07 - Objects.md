@@ -57,7 +57,7 @@ Have a go at playing with some objects!
 * Play with the Math object a bit. What kind of mathematical operations can you do?
 * There are other built-in Objects available to you in JavaScript. Have a look and see what you find! [`Date`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) is a particularly useful one!
 
-Once you're done, move on to [**Custom Objects**](./08 - Custom objects.md).
+Once you're done, move on to [**Custom Objects**](./08%20-%20Custom%20objects.md).
 
 ## More info:
 
