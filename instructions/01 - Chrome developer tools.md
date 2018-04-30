@@ -10,7 +10,7 @@ The Chrome Dev Tools look something like this:
 
 You can access the dev tools from any website by right clicking and clicking "**Inspect**". You could also use the keyboard shortcut, which is (Cmd + Opt + I) on Mac, and F12 on Windows.
 
-There tools are invaluable to web developers, and you will likely spend a lot of time using them! They can help debug all kinds of things with your code, whether it's performance issues, network issues, rendering issues or your code just not working.
+There tools are invaluable to web developers, and you will likely spend a lot of time using them! They can help debug all kinds of problems with your code, whether it's performance issues, network issues, rendering issues or your code just not working.
 
 We're going to spend most of our time using the "**Console**" and "**Sources**" panels, but take a few minutes to look through the other features.
 
@@ -18,7 +18,7 @@ We're going to spend most of our time using the "**Console**" and "**Sources**" 
 
 Start off by going to your favourite website, then just have a little poke around inside the developer tools.
 
-** Here's some things you could try: **
+**Here are some things you could try**:
 
 * Open the "**Elements**" panel and try clicking on an element within the HTML. Try playing with some of the styles and see how the page changes.
 * Open the "**Network**" panel and refresh the page. Watch all the requests come in as the page loads, and then click on a few individual requests and investigate what is going on there.

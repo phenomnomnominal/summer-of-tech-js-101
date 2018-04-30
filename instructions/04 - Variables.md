@@ -39,7 +39,7 @@ myName;
 
 Did your name get echoed back at you? Great!
 
-** More things to try: **
+**More things to try:**
 
 * Create some other variables with other values! Try using `null` and `undefined`.
 * Find out what happens if you try to declare two variables with the same name?

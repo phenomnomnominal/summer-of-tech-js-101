@@ -28,7 +28,7 @@ We should modify our *index.html* file to include an *inline* script tag as show
 
 Now, whenever you refresh the page and reload *index.html*, that script should run, and you should see the `alert`!
 
-** More things to try: **
+**More things to try:**
 
 * Try adding some of the functions from before to your `<script>`.
 * Try moving the script to a separate file and using the `src` attribute to include it. Use the "**Network**" tab of dev tools to look at the difference.
