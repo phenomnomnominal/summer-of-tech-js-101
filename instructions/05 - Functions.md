@@ -90,7 +90,7 @@ alert(multiply(2, add(3, 4)));
 
 Was it what you expected?
 
-** More things to try: **
+**More things to try:**
 
 * Have a go at adding and using a `subtract` and `divide` function!
 * Check out the built in [`prompt()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt) function - it's kind of like `alert()`, but allows the user to give you a value!
