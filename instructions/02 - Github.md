@@ -24,7 +24,7 @@ This will download the whole repository to your computer.
 
 If you unzip the ZIP file, you should see all the instructions for this workshop, as well as some code to get started!
 
-Once you've done that, you can move on to the next step to learn all about the  [**index.html**](./03 - index.html.md). 👏👏👏
+Once you've done that, you can move on to the next step to learn all about the  [**index.html**](./03%20-%20index.html.md). 👏👏👏
 
 ## More info:
 
