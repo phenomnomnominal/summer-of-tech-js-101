@@ -45,7 +45,7 @@ Did your name get echoed back at you? Great!
 * Find out what happens if you try to declare two variables with the same name?
 * Figure out if you can you assign a different value to the same variable?
 
-Once you're done with that, you can move on to [**Functions**](./05 - Functions.md). 👏👏👏
+Once you're done with that, you can move on to [**Functions**](./05%20-%20Functions.md). 👏👏👏
 
 ## More info:
 
