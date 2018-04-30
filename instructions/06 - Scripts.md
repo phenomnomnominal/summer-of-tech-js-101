@@ -33,7 +33,7 @@ Now, whenever you refresh the page and reload *index.html*, that script should r
 * Try adding some of the functions from before to your `<script>`.
 * Try moving the script to a separate file and using the `src` attribute to include it. Use the "**Network**" tab of dev tools to look at the difference.
 
-Now we're ready to learn a bit about [**Objects**](./07 - Objects.md). 👏👏👏
+Now we're ready to learn a bit about [**Objects**](./07%20-%20Objects.md). 👏👏👏
 
 ## More info:
 
