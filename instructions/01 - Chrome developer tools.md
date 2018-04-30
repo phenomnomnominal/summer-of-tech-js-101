@@ -18,7 +18,7 @@ We're going to spend most of our time using the "**Console**" and "**Sources**" 
 
 Start off by going to your favourite website, then just have a little poke around inside the developer tools.
 
-** Here's some things you could try: **
+**Here are some things you could try**:
 
 * Open the "**Elements**" panel and try clicking on an element within the HTML. Try playing with some of the styles and see how the page changes.
 * Open the "**Network**" panel and refresh the page. Watch all the requests come in as the page loads, and then click on a few individual requests and investigate what is going on there.
