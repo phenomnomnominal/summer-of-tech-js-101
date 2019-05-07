@@ -24,6 +24,8 @@ Start off by going to your favourite website, then just have a little poke aroun
 * Open the "**Network**" panel and refresh the page. Watch all the requests come in as the page loads, and then click on a few individual requests and investigate what is going on there.
 * Open the "**Audits**" panel and then click "**Perform an audit...**". Try running a few of the different audits and looking through the information in the audit report.
 
+## Next
+
 Once you're done, you can move onto the next step to learn about [**Github**](./02%20-%20Github.md). 👏👏👏
 
 ## More info:
