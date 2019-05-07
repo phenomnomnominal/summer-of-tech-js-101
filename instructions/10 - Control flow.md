@@ -74,6 +74,8 @@ if (Math.random() < 0.5) {
 
 Perfect!
 
+## Next
+
 Once you've got that working, you're ready for the last step, [**interacting with the DOM**](./11%20-%20Interacting%20with%20the%20DOM.md).
 
 ## More info:

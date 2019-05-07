@@ -29,6 +29,8 @@ You should see a blank page with the title set to "**JS 101!**", like this:
 
 ![Image showing the blank index.html page](../images/index.html.png)
 
+## Next
+
 When you've got that running, you're ready to go onto the next step,   [**Variables**](./04%20-%20Variables.md). 👏👏👏
 
 ## More info:

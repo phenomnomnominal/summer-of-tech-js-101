@@ -66,6 +66,8 @@ A `debugger` statement tells the dev tools to stop the program as it is running!
 
 ![Image showing the "play" button](../images/play.png)
 
+## Next
+
 Once you're done playing with arrays, move on to the next section [**Control Flow**](./10%20-%20Control%20flow.md).
 
 ## More info:

@@ -56,6 +56,8 @@ Once you've got that working, have a play with some other DOM functions. You cou
 
 After that, for a real challenge, have a go at a **Paper Scissors Rock** game. This is definitely not going to be easy, and you'll probably need to search online for help, but you've got most of the pieces already. But for a hint, you might want to check out the [`prompt()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt) function some more!
 
+## DONE! 🎉🎉🎉
+
 That's it! I hope you enjoyed JS101, and I hope you found it useful!
 
 ## More info:

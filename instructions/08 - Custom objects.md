@@ -62,4 +62,6 @@ Have a go at creating your own objects!
 * Try creating an object that contains another object.
 * Can you figure out how to change a property on an object after it's been created?
 
+## Next
+
 Once you're done, you're ready to go on to the next step, [**Arrays**](./09%20-%20Arrays.md). 👏👏👏

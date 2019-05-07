@@ -95,6 +95,7 @@ Was it what you expected?
 * Have a go at adding and using a `subtract` and `divide` function!
 * Check out the built in [`prompt()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt) function - it's kind of like `alert()`, but allows the user to give you a value!
 
+## Next
 
 Next up it's time to learn about using [**Scripts**](./06%20-%20Scripts.md). 👏👏👏
 
