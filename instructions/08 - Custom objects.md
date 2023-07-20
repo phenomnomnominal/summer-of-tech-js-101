@@ -29,7 +29,7 @@ function createPerson (name, age) {
     };
 }
 
-let craig = createPerson('Craig', 28);
+let craig = createPerson('Craig', 34);
 console.log(craig.age);
 ```
 
