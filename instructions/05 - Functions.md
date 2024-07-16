@@ -11,7 +11,7 @@ JavaScript gives us some functions out the box! One particularly useful one is [
 We can also write our own functions! We might have something like this:
 
 ```javascript
-function multiple (a, b) {
+function multiply (a, b) {
     return a * b;
 }
 ```
@@ -51,7 +51,7 @@ Now I get my name in the pop-up! (If it didn't work, you may need to recreate th
 Next, let's try using the `multiply` functions we saw before. Let's run the following in the console:
 
 ```javascript
-function multiple (a, b) {
+function multiply (a, b) {
     return a * b;
 }
 ```
