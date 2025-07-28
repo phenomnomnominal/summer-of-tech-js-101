@@ -11,7 +11,7 @@ JavaScript has a special syntax for creating an object, so you could create a *p
 ```javascript
 let person = {
     name: 'Craig',
-    age: 35
+    age: 36
 };
 ```
 
@@ -29,7 +29,7 @@ function createPerson (name, age) {
     };
 }
 
-let craig = createPerson('Craig', 35);
+let craig = createPerson('Craig', 36);
 console.log(craig.age);
 ```
 

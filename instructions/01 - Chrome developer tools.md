@@ -22,7 +22,6 @@ Start off by going to your favourite website, then just have a little poke aroun
 
 * Open the "**Elements**" panel and try clicking on an element within the HTML. Try playing with some of the styles and see how the page changes.
 * Open the "**Network**" panel and refresh the page. Watch all the requests come in as the page loads, and then click on a few individual requests and investigate what is going on there.
-* Open the "**Lighthouse**" panel and then click "**Analyze page load...**". Have a look through the information in the audit report.
 
 ## Next
 
